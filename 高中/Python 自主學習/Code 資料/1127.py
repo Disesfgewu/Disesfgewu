@@ -1,0 +1,16 @@
+from tkinter import *
+tk = Tk()
+tk.geometry("200x50+50+70")
+def show ():
+    ibll["text"] = str( int(eny1.get()) + int(eny2.get()))
+eny1 = Entry(tk)
+eny1.insert( 1 ,  "12" )
+eny2 = Entry(tk)
+eny2.insert( 1 , "34" )
+ibll = Label(tk , text = "Hello" )
+btnl = Button( tk , text = "Start" , command =  show )
+eny1.pack()
+eny2.pack()
+ibll.pack()
+btnl.pack()
+tk.mainloop()
