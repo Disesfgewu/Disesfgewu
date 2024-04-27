@@ -12,27 +12,27 @@
 
 - #### 高中資料
 
-    - [Python 自主學習 - 練習 code 資料]( "" )
-    - [捷運盃小論文 - 二分搜尋樹演算法實作與比較]( "" )
-    - [Zerojudge 基本程式設計解題訓練 - 使用 C++ 與 Python ]( "" )
+    - [Python 自主學習 - 練習 code 資料]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E9%AB%98%E4%B8%AD/Python%20%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92/Code%20%E8%B3%87%E6%96%99" )
+    - [捷運盃小論文 - 二分搜尋樹演算法實作與比較]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E9%AB%98%E4%B8%AD/Python%20%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92/%E6%8D%B7%E9%81%8B%E7%9B%83%E5%B0%8F%E8%AB%96%E6%96%87" )
+    - [Zerojudge 基本程式設計解題訓練 - 使用 C++ 與 Python ]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E9%AB%98%E4%B8%AD/%E8%A7%A3%E9%A1%8C/zerojudge/Code" )
 
 - #### 大學資料
 
-    - [課堂訓練]( "" )
-      - [計算機程式設計 - C 語言基礎程式設計]( "" ) ( 111-1 )
-      - [物件導向程式設計 - C++ 基礎物件導向程式設計訓練]( "" ) ( 111-2 )
-      - [線性代數 - 數學模型實作訓練 使用 Python 與 Matlab]( "" ) ( 111-2 )
-      - [資料結構 - 資料結構實作訓練 使用 Python]( "" ) ( 112-1 )
-      - [計算機組織 - VHDL 訓練]("") ( 112-2 )
-      - [多媒體技術與應用 - AI 訓練與回歸分類器實作]("") ( 112-2 ) 
+    - [課堂訓練]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4" )
+      - [計算機程式設計 - C 語言基礎程式設計]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88" ) ( 111-1 )
+      - [物件導向程式設計 - C++ 基礎物件導向程式設計訓練]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88" ) ( 111-2 )
+      - 線性代數 - 數學模型實作訓練 使用 Python 與 Matlab ( 111-2 )
+      - [資料結構 - 資料結構實作訓練 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B" ) ( 112-1 )
+      - [計算機組織 - VHDL 訓練]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%B5%84%E7%B9%94/VHDL") ( 112-2 )
+      - [多媒體技術與應用 - AI 訓練與回歸分類器實作]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E5%A4%9A%E5%AA%92%E9%AB%94%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8") ( 112-2 ) 
 
-    - [課外自學]( "" )
-      - [爬蟲訓練 - Youtube List MP3 簡易 Download 器 使用 Python]( "" )
-      - [爬蟲訓練 - 北科官網資料爬取 使用 Python]( "" )
-      - [爬蟲專案 - 天主教輔仁大學金融系專題爬蟲程式開發 使用 Python]( "" )
-      - [網頁程式設計學習]( "" )
-      - [R 語言基礎學習]( "" )
-      - [個人模擬專題 - Python AI 物件偵測 ( 參考書籍 "Python機器學習超進化：AI影像辨識跨界應用實戰學習資源" ) ]( "" )
+    - [課外自學]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8" )
+      - [爬蟲訓練 - Youtube List MP3 簡易 Download 器 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E7%88%AC%E8%9F%B2%E8%A8%93%E7%B7%B4%20-%20Youtube%20MP3%20download%20%E7%89%A9%E4%BB%B6%E5%AF%A6%E4%BD%9C/src" )
+      - [爬蟲訓練 - 北科官網資料爬取 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E7%88%AC%E8%9F%B2%E8%A8%93%E7%B7%B4%20-%20%E5%8C%97%E7%A7%91%E5%AE%98%E7%B6%B2%E8%B3%87%E6%96%99" )
+      - [爬蟲專案 - 天主教輔仁大學金融系專題爬蟲程式開發 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E5%8D%94%E7%99%BC%E5%B0%88%E6%A1%88%20-%20%E8%BC%94%E5%A4%A7%E9%87%91%E8%9E%8D" )
+      - [網頁程式設計學習]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E7%B6%B2%E9%A0%81%E5%9F%BA%E7%A4%8E%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%20-%20%E5%AD%B8%E7%BF%92" )
+      - [R 語言基礎學習]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/R%20%E8%AA%9E%E8%A8%80%E5%9F%BA%E7%A4%8E%20-%20%E5%AD%B8%E7%BF%92" )
+      - [個人模擬專題 - Python AI 物件偵測 ( 參考書籍 "Python機器學習超進化：AI影像辨識跨界應用實戰學習資源" ) ]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/Python%20AI%20%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC%E8%88%87%20Haar%20%E7%89%B9%E5%BE%B5%E6%A8%A1%E5%9E%8B%E6%A8%A1%E6%93%AC%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C" )
 ### 資訊相關經歷
 
 - 109/07	108 學年度明倫高中校內資訊學科能力競賽－特優
@@ -45,5 +45,5 @@
 - 110/10	109 學年度明倫高中校內資訊學科能力競賽－特優
 - 110/11	110 學年度台北市資訊學科能力競賽北市賽－佳作
 - 111/03	參加淡江大學線上大學體驗課程－物聯網 結訓
-- 112/12    參加大學程式能力檢定 ( Collegiate Programming Examination 簡稱 CPE ) - A 等
-- 113/03    擔任國立臺北科技大學 程式設計研究社 機器學習 講師
+- 112/12  參加大學程式能力檢定 ( Collegiate Programming Examination 簡稱 CPE ) - A 等
+- 113/03  擔任國立臺北科技大學 程式設計研究社 機器學習 講師
