@@ -1,0 +1,4 @@
+sold 2021-05-02T15:18:00 price 21.0 priceUSD 62002.0117 buyer eight8eight seller jarnoeth 
+sold 2021-05-01T08:23:38 price 0.07999999821186066 priceUSD 235.9455 buyer jarnoeth seller 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d 
+sold 2021-08-29T22:42:37 price 500.88800048828125 priceUSD 1616366.875 buyer TheArtchitech seller 888THEVAULT 
+sold 2021-09-17T16:43:57 price 550.0 priceUSD 1870116.0 buyer MetalinkLabs seller TheArtchitech 

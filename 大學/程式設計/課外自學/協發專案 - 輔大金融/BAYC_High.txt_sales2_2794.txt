@@ -1,0 +1,1 @@
+sold 2021-06-14T13:25:09 price 20.0 priceUSD 51540.8945 buyer Daggerhigh seller j1mmy_vault 

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .content{
+            background-image: url("./Imgination/OIP.jpg");
+            height: 100vh;
+            width: 100vw;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+        body {
+            margin: 0;
+        }
+        form {
+            width: 400px;
+            height: 550px;
+            background: #ffffffa1;
+            padding: 24px;
+            border-radius: 30px;
+            backdrop-filter: blur(20px) saturate(180%);
+            position: absolute;
+            left: calc(50% - 200px - 24px);
+            top: calc(50% - (550px / 2) - 24px);
+        }
+        label > input {
+            width: 100%;
+            background-color: transparent;
+            border: none;
+            border-bottom-width: 0.3px;
+            outline: none;
+            border-bottom-style: solid;
+            border-bottom-color: #333;
+            padding: 0;
+            padding-bottom: 12px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            background: #333;
+            color: white;
+            padding: 12px 36px;
+            border: none;
+            border-radius: 123123123123123px;
+            font-size: 16px;
+        }
+        .button-setting {
+            display: flex;
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="content">
+        <form action="">
+            <h1>Login</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci earum illo laborum minima omnis similique soluta totam ut voluptatum. Corporis earum exercitationem illum, iure nisi nulla quam quas quibusdam sit?
+            </p>
+            <label>
+                帳號
+                <input type="text" placeholder="account">
+            </label>
+            <br> </br>
+            <label>
+                密碼
+                <input type="password" placeholder="password">
+            </label>
+            <br> </br>
+            <div class="button-setting">
+                <input type="submit">
+            </div>
+
+        </form>
+    </div>
+</body>
+</html>
