@@ -1,0 +1,62 @@
+{
+    "patient_001": {
+        "SpO2": 89,
+        "heart_rate": 102,
+        "temperature": 37.2,
+        "symptoms": "cough"
+    },
+    "patient_002": {
+        "SpO2": 95,
+        "heart_rate": 78,
+        "temperature": 36.6,
+        "symptoms": "normal"
+    },
+    "patient_003": {
+        "SpO2": 92,
+        "heart_rate": 110,
+        "temperature": 37.9,
+        "symptoms": "shortness of breath"
+    },
+    "patient_004": {
+        "SpO2": 87,
+        "heart_rate": 105,
+        "temperature": 38.0,
+        "symptoms": "fever"
+    },
+    "patient_005": {
+        "SpO2": 93,
+        "heart_rate": 85,
+        "temperature": 36.8,
+        "symptoms": "headache"
+    },
+    "patient_006": {
+        "SpO2": 96,
+        "heart_rate": 65,
+        "temperature": 35.9,
+        "symptoms": "normal"
+    },
+    "patient_007": {
+        "SpO2": 91,
+        "heart_rate": 100,
+        "temperature": 37.5,
+        "symptoms": "dizziness"
+    },
+    "patient_008": {
+        "SpO2": 85,
+        "heart_rate": 115,
+        "temperature": 38.5,
+        "symptoms": "chest pain"
+    },
+    "patient_009": {
+        "SpO2": 94,
+        "heart_rate": 80,
+        "temperature": 36.2,
+        "symptoms": "nausea"
+    },
+    "patient_010": {
+        "SpO2": 90,
+        "heart_rate": 99,
+        "temperature": 37.0,
+        "symptoms": "shortness of breath"
+    }
+}

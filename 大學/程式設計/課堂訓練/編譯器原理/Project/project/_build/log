@@ -1,0 +1,172 @@
+# dune build minipython.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/martin/.cache/dune/db
+# Workspace root: /mnt/n/data/compiler/Project/project
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_65756a_output
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl minipython.ml) > _build/default/.minipython.eobjs/minipython.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl compile.ml) > _build/default/.minipython.eobjs/compile.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl typing.ml) > _build/default/.minipython.eobjs/typing.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -intf x86_64.mli) > _build/default/.minipython.eobjs/x86_64.intf.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl ast.ml) > _build/default/.minipython.eobjs/ast.impl.d
+$ (cd _build/default && /usr/bin/ocamllex -q -o lexer.ml lexer.mll)
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl lexer.ml) > _build/default/.minipython.eobjs/lexer.impl.d
+$ (cd _build/default && /home/martin/.opam/default/bin/menhir parser.mly --base parser --infer-write-query parser__mock.ml.mock)
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl parser__mock.ml.mock) > _build/default/.minipython.eobjs/parser__mock.impl.d
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/ast.cmo -c -impl ast.ml)
+$ (cd _build/.sandbox/1e7a7efb3b12a5036977060df554f2c7/default && /usr/bin/ocamlc.opt -g -I .minipython.eobjs/byte -short-paths -i -impl parser__mock.ml.mock) > _build/.sandbox/1e7a7efb3b12a5036977060df554f2c7/default/parser__mock.mli.inferred
+$ (cd _build/default && /home/martin/.opam/default/bin/menhir parser.mly --base parser --infer-read-reply parser__mock.mli.inferred)
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -intf parser.mli) > _build/default/.minipython.eobjs/parser.intf.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl x86_64.ml) > _build/default/.minipython.eobjs/x86_64.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl parser.ml) > _build/default/.minipython.eobjs/parser.impl.d
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/parser.cmi -c -intf parser.mli)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/ast.cmx -c -impl ast.ml)
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/x86_64.cmi -c -intf x86_64.mli)
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/typing.cmo -c -impl typing.ml)
+> File "typing.ml", line 162, characters 4-5:
+> 162 |   | _ ->
+>           ^
+> Warning 11: this match case is unused.
+> File "typing.ml", line 280, characters 4-5:
+> 280 |   | _ -> error "Unsupported statement"
+>           ^
+> Warning 11: this match case is unused.
+> File "typing.ml", line 187, characters 16-23:
+> 187 |             let fn_info = Hashtbl.find function_table fn.fn_name in
+>                       ^^^^^^^
+> Warning 26: unused variable fn_info.
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/lexer.cmo -c -impl lexer.ml)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/typing.cmx -c -impl typing.ml)
+> File "typing.ml", line 162, characters 4-5:
+> 162 |   | _ ->
+>           ^
+> Warning 11: this match case is unused.
+> File "typing.ml", line 280, characters 4-5:
+> 280 |   | _ -> error "Unsupported statement"
+>           ^
+> Warning 11: this match case is unused.
+> File "typing.ml", line 187, characters 16-23:
+> 187 |             let fn_info = Hashtbl.find function_table fn.fn_name in
+>                       ^^^^^^^
+> Warning 26: unused variable fn_info.
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/compile.cmo -c -impl compile.ml)
+> File "compile.ml", line 35, characters 6-139:
+> 35 | ......(match var.v_type with
+> 36 |         | Tstring -> "Tstring"
+> 37 |         | Tint -> "Tint"
+> 38 |         | Tbool -> "Tbool"
+> 39 |         | Tnone -> "Tnone")
+> Warning 8: this pattern-matching is not exhaustive.
+> Here is an example of a case that is not matched:
+> None_vt
+> File "compile.ml", line 596, characters 8-9:
+> 596 |       | _ -> failwith "Unsupported operator"
+>               ^
+> Warning 11: this match case is unused.
+> File "compile.ml", line 710, characters 4-5:
+> 710 |   | _ -> failwith "Unsupported expression"
+>           ^
+> Warning 11: this match case is unused.
+> File "compile.ml", line 142, characters 2-21351:
+> 142 | ..match expr with
+> 143 |   | TEcst (Cint value) ->
+> 144 |       let code = movq (imm (Int64.to_int value)) (!%rax) in
+> 145 |       (nop, code)
+> 146 |   | TEcst (Cstring s) ->
+> ...
+> 707 |           movq (ind r12 ~index:rdx ~scale:1) (!%rax)   
+> 708 |         in
+> 709 |         (lst_data ++ idx_data, get_code)
+> 710 |   | _ -> failwith "Unsupported expression"
+> Warning 8: this pattern-matching is not exhaustive.
+> Here is an example of a case that is not matched:
+> (TEcst Cnone|TErange _)
+> File "compile.ml", line 1064, characters 4-16:
+> 1064 |   | Some None_vt -> Hashtbl.add function_return_type_table fn.fn_name None_vt
+>            ^^^^^^^^^^^^
+> Warning 11: this match case is unused.
+> File "compile.ml", line 506, characters 14-19:
+> 506 |           let check expr =
+>                     ^^^^^
+> Warning 26: unused variable check.
+> File "compile.ml", line 555, characters 14-19:
+> 555 |           let check expr =
+>                     ^^^^^
+> Warning 26: unused variable check.
+> File "compile.ml", line 775, characters 23-78:
+> 775 |             | TEbinop ((Blt | Ble | Bgt | Bge | Beq | Bneq | Band | Bor) as op, left, right) -> true
+>                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> Warning 26: unused variable op.
+> File "compile.ml", line 829, characters 23-78:
+> 829 |             | TEbinop ((Blt | Ble | Bgt | Bge | Beq | Bneq | Band | Bor) as op, left, right) -> movq (ilab format_label) (!%rdx)
+>                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> Warning 26: unused variable op.
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/lexer.cmx -c -impl lexer.ml)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/x86_64.cmx -c -impl x86_64.ml)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/parser.cmx -c -impl parser.ml)
+$ (cd _build/default && /usr/bin/ocamlc.opt -g -bin-annot -I .minipython.eobjs/byte -no-alias-deps -opaque -o .minipython.eobjs/byte/minipython.cmo -c -impl minipython.ml)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/minipython.cmx -c -impl minipython.ml)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -I .minipython.eobjs/byte -I .minipython.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .minipython.eobjs/native/compile.cmx -c -impl compile.ml)
+> File "compile.ml", line 35, characters 6-139:
+> 35 | ......(match var.v_type with
+> 36 |         | Tstring -> "Tstring"
+> 37 |         | Tint -> "Tint"
+> 38 |         | Tbool -> "Tbool"
+> 39 |         | Tnone -> "Tnone")
+> Warning 8: this pattern-matching is not exhaustive.
+> Here is an example of a case that is not matched:
+> None_vt
+> File "compile.ml", line 596, characters 8-9:
+> 596 |       | _ -> failwith "Unsupported operator"
+>               ^
+> Warning 11: this match case is unused.
+> File "compile.ml", line 710, characters 4-5:
+> 710 |   | _ -> failwith "Unsupported expression"
+>           ^
+> Warning 11: this match case is unused.
+> File "compile.ml", line 142, characters 2-21351:
+> 142 | ..match expr with
+> 143 |   | TEcst (Cint value) ->
+> 144 |       let code = movq (imm (Int64.to_int value)) (!%rax) in
+> 145 |       (nop, code)
+> 146 |   | TEcst (Cstring s) ->
+> ...
+> 707 |           movq (ind r12 ~index:rdx ~scale:1) (!%rax)   
+> 708 |         in
+> 709 |         (lst_data ++ idx_data, get_code)
+> 710 |   | _ -> failwith "Unsupported expression"
+> Warning 8: this pattern-matching is not exhaustive.
+> Here is an example of a case that is not matched:
+> (TEcst Cnone|TErange _)
+> File "compile.ml", line 1064, characters 4-16:
+> 1064 |   | Some None_vt -> Hashtbl.add function_return_type_table fn.fn_name None_vt
+>            ^^^^^^^^^^^^
+> Warning 11: this match case is unused.
+> File "compile.ml", line 506, characters 14-19:
+> 506 |           let check expr =
+>                     ^^^^^
+> Warning 26: unused variable check.
+> File "compile.ml", line 555, characters 14-19:
+> 555 |           let check expr =
+>                     ^^^^^
+> Warning 26: unused variable check.
+> File "compile.ml", line 775, characters 23-78:
+> 775 |             | TEbinop ((Blt | Ble | Bgt | Bge | Beq | Bneq | Band | Bor) as op, left, right) -> true
+>                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> Warning 26: unused variable op.
+> File "compile.ml", line 829, characters 23-78:
+> 829 |             | TEbinop ((Blt | Ble | Bgt | Bge | Beq | Bneq | Band | Bor) as op, left, right) -> movq (ilab format_label) (!%rdx)
+>                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> Warning 26: unused variable op.
+$ (cd _build/default && /usr/bin/ocamlopt.opt -g -o minipython.exe /usr/lib/ocaml/str.cmxa -I /usr/lib/ocaml .minipython.eobjs/native/ast.cmx .minipython.eobjs/native/x86_64.cmx .minipython.eobjs/native/compile.cmx .minipython.eobjs/native/parser.cmx .minipython.eobjs/native/lexer.cmx .minipython.eobjs/native/typing.cmx .minipython.eobjs/native/minipython.cmx)
+# Promoting "_build/default/minipython.exe" to "minipython.exe"

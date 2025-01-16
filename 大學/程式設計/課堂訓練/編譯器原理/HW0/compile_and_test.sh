@@ -1,0 +1,3 @@
+cd ./shell
+
+./compile.sh

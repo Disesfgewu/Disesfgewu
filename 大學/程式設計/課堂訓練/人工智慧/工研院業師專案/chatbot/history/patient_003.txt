@@ -1,0 +1,3 @@
+Patient data loaded: {'SpO2': 92, 'heart_rate': 110, 'temperature': 37.9, 'symptoms': 'shortness of breath'}
+question: give me the patient's information and analyze his physical data
+chatbot: The patient is a 37-year-old male with symptoms of shortness of breath, displaying normal SpO2 levels but an elevated heart rate of 110 bpm, suggesting possible stress or anxiety. I recommend closely monitoring the patient's oxygen saturation and heart rate while also assessing the severity of his shortness of breath to determine if further evaluation is needed, such as a chest X-ray or pulse oximetry.

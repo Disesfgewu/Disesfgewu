@@ -1,0 +1,5 @@
+Patient data loaded: {'SpO2': 87, 'heart_rate': 105, 'temperature': 38.0, 'symptoms': 'fever'}
+question: give me the patient's information and analyze his physical data
+chatbot: The patient is experiencing a high fever (38.0°C), tachycardia (heart rate of 105 bpm), and low SpO2 (87%), indicating a possible severe infection that requires prompt medical attention.
+
+Recommendation: The patient should be closely monitored for respiratory distress, and oxygen therapy may be necessary to improve SpO2 levels.

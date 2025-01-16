@@ -1,0 +1,202 @@
+.
+├── exec
+│   ├── arith1.out
+│   ├── arith1.py
+│   ├── arith1.s
+│   ├── arith2.out
+│   ├── arith2.py
+│   ├── arith2.s
+│   ├── arith3.out
+│   ├── arith3.py
+│   ├── arith3.s
+│   ├── arith4.out
+│   ├── arith4.py
+│   ├── arith4.s
+│   ├── badmatrix.out
+│   ├── badmatrix.py
+│   ├── bool1.out
+│   ├── bool1.py
+│   ├── bool1.s
+│   ├── bool2.out
+│   ├── bool2.py
+│   ├── bool2.s
+│   ├── bool3.out
+│   ├── bool3.py
+│   ├── bool3.s
+│   ├── bool4.out
+│   ├── bool4.py
+│   ├── bool4.s
+│   ├── bool5.out
+│   ├── bool5.py
+│   ├── bool5.s
+│   ├── bool6.out
+│   ├── bool6.py
+│   ├── bool6.s
+│   ├── compare_list1.out
+│   ├── compare_list1.py
+│   ├── compare_list1.s
+│   ├── compare_list2.out
+│   ├── compare_list2.py
+│   ├── compare_list2.s
+│   ├── compare_string1.out
+│   ├── compare_string1.py
+│   ├── compare_string1.s
+│   ├── concat1.out
+│   ├── concat1.py
+│   ├── concat1.s
+│   ├── concat2.out
+│   ├── concat2.py
+│   ├── concat2.s
+│   ├── concat3.out
+│   ├── concat3.py
+│   ├── concat3.s
+│   ├── eval1.out
+│   ├── eval1.py
+│   ├── eval1.s
+│   ├── fact.out
+│   ├── fact.py
+│   ├── fact.s
+│   ├── fib.out
+│   ├── fib.py
+│   ├── fib.s
+│   ├── hw.out
+│   ├── hw.py
+│   ├── hw.s
+│   ├── list1.out
+│   ├── list1.py
+│   ├── list1.s
+│   ├── list2.out
+│   ├── list2.py
+│   ├── list2.s
+│   ├── loop1.out
+│   ├── loop1.py
+│   ├── loop1.s
+│   ├── mandelbrot.out
+│   ├── mandelbrot.py
+│   ├── none.out
+│   ├── none.py
+│   ├── none.s
+│   ├── pascal.out
+│   ├── pascal.py
+│   ├── primes1.out
+│   ├── primes1.py
+│   ├── print_int.out
+│   ├── print_int.py
+│   ├── print_int.s
+│   ├── print_list1.out
+│   ├── print_list1.py
+│   ├── print_list1.s
+│   ├── print_list2.out
+│   ├── print_list2.py
+│   ├── print_list2.s
+│   ├── print_list3.out
+│   ├── print_list3.py
+│   ├── print_list3.s
+│   ├── print_string.out
+│   ├── print_string.py
+│   ├── print_string.s
+│   ├── queens.out
+│   ├── queens.py
+│   ├── range1.out
+│   ├── range1.py
+│   ├── range1.s
+│   ├── range2.out
+│   ├── range2.py
+│   ├── range2.s
+│   ├── range3.out
+│   ├── range3.py
+│   ├── range3.s
+│   ├── str1.out
+│   ├── str1.py
+│   ├── str1.s
+│   ├── var1.out
+│   ├── var1.py
+│   ├── var1.s
+│   ├── var2.out
+│   ├── var2.py
+│   ├── var2.s
+│   ├── var3.out
+│   ├── var3.py
+│   └── var3.s
+├── exec-fail
+│   ├── add1.py
+│   ├── add1.s
+│   ├── bool1.py
+│   ├── bool1.s
+│   ├── bool2.py
+│   ├── bool2.s
+│   ├── for1.py
+│   ├── for1.s
+│   ├── len1.py
+│   ├── len1.s
+│   ├── range1.py
+│   ├── range1.s
+│   ├── range2.py
+│   └── range2.s
+├── file.txt
+├── syntax
+│   ├── bad
+│   │   ├── testfile-acces_liste_invalide-1.py
+│   │   ├── testfile-bloc_invalide-1.py
+│   │   ├── testfile-chaine_non_fermee1-1.py
+│   │   ├── testfile-chaine_non_fermee2-1.py
+│   │   ├── testfile-chaine_non_fermee3-1.py
+│   │   ├── testfile-chaine_non_fermee4-1.py
+│   │   ├── testfile-constante_trop_grande-1.py
+│   │   ├── testfile-def_apres_stmt-1.py
+│   │   ├── testfile-def_entre_stmt-1.py
+│   │   ├── testfile-def_fonction_vide-1.py
+│   │   ├── testfile-erreur_indent1-1.py
+│   │   ├── testfile-erreur_indent2-1.py
+│   │   ├── testfile-erreur_indent2-2.py
+│   │   ├── testfile-erreur_indent3-1.py
+│   │   ├── testfile-fichier_vide-1.py
+│   │   ├── testfile-liste_args_invalide1-1.py
+│   │   ├── testfile-liste_args_invalide2-1.py
+│   │   ├── testfile-liste_args_invalide3-1.py
+│   │   ├── testfile-liste_args_invalide4-1.py
+│   │   ├── testfile-liste_args_invalide5-1.py
+│   │   ├── testfile-liste_invalide1-1.py
+│   │   ├── testfile-liste_invalide2-1.py
+│   │   ├── testfile-liste_invalide3-1.py
+│   │   ├── testfile-liste_invalide4-1.py
+│   │   ├── testfile-liste_invalide5-1.py
+│   │   ├── testfile-mauvais_commentaire-1.py
+│   │   ├── testfile-parentheses_vides-1.py
+│   │   ├── testfile-stmt_manquant-1.py
+│   │   ├── testfile-token_invalide-1.py
+│   │   ├── testfile-token_invalide2-1.py
+│   │   ├── testfile-token_invalide3-1.py
+│   │   └── testfile-val_gauche_invalide-1.py
+│   └── good
+│       ├── testfile-blocs_commentaires-1.py
+│       ├── testfile-fundef_commentaires-1.py
+│       ├── testfile-ident-1.py
+│       ├── testfile-listes-1.py
+│       ├── testfile-multi_fundefs-1.py
+│       ├── testfile-toplevel_assign-1.py
+│       ├── testfile-toplevel_commentaire-1.py
+│       ├── testfile-toplevel_const-1.py
+│       └── testfile-toplevel_print-1.py
+├── test
+└── typing
+    ├── bad
+    │   ├── testfile-arity-1.py
+    │   ├── testfile-arity-2.py
+    │   ├── testfile-arity-3.py
+    │   ├── testfile-arity-4.py
+    │   ├── testfile-arity-5.py
+    │   ├── testfile-duplicate-1.py
+    │   ├── testfile-list-1.py
+    │   ├── testfile-list-2.py
+    │   ├── testfile-list-3.py
+    │   ├── testfile-list-4.py
+    │   ├── testfile-list-5.py
+    │   ├── testfile-list-6.py
+    │   ├── testfile-list-7.py
+    │   └── testfile-list-8.py
+    └── good
+        ├── testfile-scope-1.py
+        └── testfile-scope-2.py
+
+8 directories, 191 files

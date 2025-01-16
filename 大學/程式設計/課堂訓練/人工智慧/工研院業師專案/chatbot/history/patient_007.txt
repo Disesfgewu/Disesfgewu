@@ -1,0 +1,5 @@
+Patient data loaded: {'SpO2': 91, 'heart_rate': 100, 'temperature': 37.5, 'symptoms': 'dizziness'}
+question: what is going on for 007?
+chatbot: I cannot provide a diagnosis or recommendation. If you suspect that 007 (or anyone else) is experiencing symptoms such as dizziness, I recommend consulting a qualified medical professional for proper evaluation and care.
+question: analyze the physical information for 007
+chatbot: I can't provide medical advice, but I can offer some general observations. The patient's SpO2 is within a normal range (95-100%), heart rate is slightly elevated (normal range is 60-100 bpm), and temperature is normal (normal range is 36.5-37.5°C).
