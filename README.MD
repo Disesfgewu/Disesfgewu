@@ -25,10 +25,10 @@
       - [資料結構 - 資料結構實作訓練 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B" ) ( 112-1 )
       - [計算機組織 - VHDL 訓練]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%B5%84%E7%B9%94/VHDL") ( 112-2 )
       - [多媒體技術與應用 - AI 訓練與回歸分類器實作]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E5%A4%9A%E5%AA%92%E9%AB%94%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8") ( 112-2 ) 
-      - [人工智慧 - AI-CUP 競賽參與 (排名 130/501) ]("") ( 113-1 )
-      - [人工智慧 - 工研院業師專案實作 智慧醫療 ChatBot ]("")( 113-1 )
-      - [編譯器原理 - Mini-Python 實作 use Ocaml (通過率 81% )]("")( 113-1 )
-      - [資料庫系統 - 購物網站實作小組作業]("")( 113-1 )
+      - [人工智慧 - AI-CUP 競賽參與 (排名 130/501) ]("https://github.com/Disesfgewu/Project/tree/martin") ( 113-1 )
+      - [人工智慧 - 工研院業師專案實作 智慧醫療 ChatBot ]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/%E5%B7%A5%E7%A0%94%E9%99%A2%E6%A5%AD%E5%B8%AB%E5%B0%88%E6%A1%88/chatbot")( 113-1 )
+      - [編譯器原理 - Mini-Python 實作 use Ocaml (通過率 81% )]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E7%B7%A8%E8%AD%AF%E5%99%A8%E5%8E%9F%E7%90%86/Project")( 113-1 )
+      - 資料庫系統 - 購物網站實作小組作業 ( 113-1 )
 
     - [課外自學]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8" )
       - [爬蟲訓練 - Youtube List MP3 簡易 Download 器 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E7%88%AC%E8%9F%B2%E8%A8%93%E7%B7%B4%20-%20Youtube%20MP3%20download%20%E7%89%A9%E4%BB%B6%E5%AF%A6%E4%BD%9C/src" )
@@ -37,7 +37,7 @@
       - [網頁程式設計學習]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E7%B6%B2%E9%A0%81%E5%9F%BA%E7%A4%8E%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%20-%20%E5%AD%B8%E7%BF%92" )
       - [R 語言基礎學習]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/R%20%E8%AA%9E%E8%A8%80%E5%9F%BA%E7%A4%8E%20-%20%E5%AD%B8%E7%BF%92" )
       - [個人模擬專題 - Python AI 物件偵測 ( 參考書籍 "Python機器學習超進化：AI影像辨識跨界應用實戰學習資源" ) ]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/Python%20AI%20%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC%E8%88%87%20Haar%20%E7%89%B9%E5%BE%B5%E6%A8%A1%E5%9E%8B%E6%A8%A1%E6%93%AC%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C" )
-      - [Microsoft2025 技術型工作坊 參與]("")
+      - Microsoft2025 技術型工作坊 參與
 ### 資訊與其他經歷
 
 - 109/07	108 學年度明倫高中校內資訊學科能力競賽－特優
