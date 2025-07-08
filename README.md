@@ -26,6 +26,9 @@
     - [Zerojudge 基本程式設計解題訓練 - 使用 C++ 與 Python ]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E9%AB%98%E4%B8%AD/%E8%A7%A3%E9%A1%8C/zerojudge/Code" )
 
 - #### 大學資料
+    - [專題]
+      - [校內專題：應用 LCP 區域感知技術與重建損失對於 OS2D 單樣本物件偵測模型之通道剪枝之研究]("https://github.com/Disesfgewu/ntut-project-in-os2d-channel-prune")
+      - [大專生研究計畫：基於無人機多視角物件偵測與輕量化模型的嵌入式系統研究]
 
     - [課堂訓練]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4" )
       - [計算機程式設計 - C 語言基礎程式設計]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88" ) ( 111-1 )
@@ -38,6 +41,7 @@
       - [人工智慧 - 工研院業師專案實作 智慧醫療 ChatBot ]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/%E5%B7%A5%E7%A0%94%E9%99%A2%E6%A5%AD%E5%B8%AB%E5%B0%88%E6%A1%88/chatbot")( 113-1 )
       - [編譯器原理 - Mini-Python 實作 use Ocaml (通過率 81% )]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E7%B7%A8%E8%AD%AF%E5%99%A8%E5%8E%9F%E7%90%86/Project")( 113-1 )
       - 資料庫系統 - 購物網站實作小組作業 ( 113-1 )
+      - [物件導向程式設計實習 - 基於 NTUT open source 之 PTSD game framework 遊戲復刻開發]("https://github.com/Disesfgewu/2025OOPL_project.git") (113-2)
 
     - [課外自學]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8" )
       - [爬蟲訓練 - Youtube List MP3 簡易 Download 器 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/%E7%88%AC%E8%9F%B2%E8%A8%93%E7%B7%B4%20-%20Youtube%20MP3%20download%20%E7%89%A9%E4%BB%B6%E5%AF%A6%E4%BD%9C/src" )
@@ -66,3 +70,5 @@
 - 113/07 ~ 08 擔任廣盛科技股份有限公司 系統開發實習生
 - 113/12  參加教育部 人文社科教育苗圃分區資源中心計畫 創新設計與智慧輔具工作坊 結訓
 - 114/01  參加微軟 Microsoft 公司 2025 技術型工作坊 結訓
+- 114/04  參加 2025 年技職杯黑客松競賽北區分賽 參與
+- 114/07 ~ 115/02 執行大專生研究計畫
