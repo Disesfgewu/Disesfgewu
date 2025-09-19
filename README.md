@@ -37,7 +37,7 @@
       - [資料結構 - 資料結構實作訓練 使用 Python]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B" ) ( 112-1 )
       - [計算機組織 - VHDL 訓練]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%B5%84%E7%B9%94/VHDL") ( 112-2 )
       - [多媒體技術與應用 - AI 訓練與回歸分類器實作]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E5%A4%9A%E5%AA%92%E9%AB%94%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8") ( 112-2 ) 
-      - [人工智慧 - AI-CUP 競賽參與 (排名 130/501) ]("https://github.com/Disesfgewu/Project/tree/martin") ( 113-1 )
+      - [人工智慧 - AI-CUP 競賽參與 (排名 130/934) ]("https://github.com/Disesfgewu/Project/tree/martin") ( 113-1 )
       - [人工智慧 - 工研院業師專案實作 智慧醫療 ChatBot ]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/%E5%B7%A5%E7%A0%94%E9%99%A2%E6%A5%AD%E5%B8%AB%E5%B0%88%E6%A1%88/chatbot")( 113-1 )
       - [編譯器原理 - Mini-Python 實作 use Ocaml (通過率 81% )]("https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4/%E7%B7%A8%E8%AD%AF%E5%99%A8%E5%8E%9F%E7%90%86/Project")( 113-1 )
       - 資料庫系統 - 購物網站實作小組作業 ( 113-1 )
