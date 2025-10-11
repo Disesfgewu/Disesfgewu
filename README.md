@@ -27,7 +27,7 @@
 
 - #### 大學資料
     - [專題]
-      - [校內專題：應用 LCP 區域感知技術與重建損失對於 OS2D 單樣本物件偵測模型之通道剪枝之研究]("https://github.com/Disesfgewu/ntut-project-in-os2d-channel-prune")
+      - [校內專題：基於無梯度通道重要性評估之通道剪枝策略，應用於 OS2D 單樣本物件偵測模型之研究]("https://github.com/Disesfgewu/ntut-project-in-os2d-channel-prune")
       - [大專生研究計畫：基於無人機多視角物件偵測與輕量化模型的嵌入式系統研究]
 
     - [課堂訓練]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A0%82%E8%A8%93%E7%B7%B4" )
