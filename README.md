@@ -1,4 +1,7 @@
-# DisesFgewu ( Martin ) 個人 github
+# Hi, I'm Chen Yi-Jin (Martin)
+
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Website-0d6efd?style=for-the-badge)](https://disesfgewu.github.io/)
+
 
 ### 個人資訊
 
