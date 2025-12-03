@@ -54,6 +54,7 @@
       - [R 語言基礎學習]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/R%20%E8%AA%9E%E8%A8%80%E5%9F%BA%E7%A4%8E%20-%20%E5%AD%B8%E7%BF%92" )
       - [個人模擬專題 - Python AI 物件偵測 ( 參考書籍 "Python機器學習超進化：AI影像辨識跨界應用實戰學習資源" ) ]( "https://github.com/Disesfgewu/Self-Projects-Data/tree/master/%E5%A4%A7%E5%AD%B8/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/%E8%AA%B2%E5%A4%96%E8%87%AA%E5%AD%B8/Python%20AI%20%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC%E8%88%87%20Haar%20%E7%89%B9%E5%BE%B5%E6%A8%A1%E5%9E%8B%E6%A8%A1%E6%93%AC%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C" )
       - Microsoft2025 技術型工作坊 參與
+      - [Taiwan Stock Quantitative Analysis & Simulated Trading Platform](https://github.com/Disesfgewu/interact-stock-platform-taiwan.git) 開發進行中
 ### 資訊與其他經歷
 
 - 109/07	108 學年度明倫高中校內資訊學科能力競賽－特優
