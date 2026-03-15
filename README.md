@@ -23,7 +23,11 @@
 ### 個人專案資料
 
 - #### 最新專案
-    - [LLM-Router: Use a simple and centralized api to access LLM api to use token, support google and github models](https://github.com/Disesfgewu/LLM-Router.git) 
+    - [LLM-Router: Use a simple and centralized api to access LLM api to use token, support google and github models](https://github.com/Disesfgewu/LLM-Router.git) **(NEW)**
+      - The latest update:
+          - 1. Support the safety method for OpenClaw to protect and control the usages of API in CHAT Functions (support google ai studio models, github models and ollama platform)
+          - 2. Use the DDGS to do the web_search avoid the expensive API tokens use and in the safety way to do the search.
+          - 3. Point: To control the prompt, query and token usage yourself easily to avoid the openclaw secure problems now 
 
 - #### 高中資料
 
