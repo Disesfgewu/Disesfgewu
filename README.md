@@ -10,11 +10,14 @@
 - #### 學歷
   - 臺北市立明倫高中 ( 2019 - 2022 )
   - 國立臺北科技大學 電資學士班 ( 2022 - 2026 )
+  - 國立成功大學 資訊工程研究所碩士班 USCC LAB ( 2026 - NOW )
 - #### 經歷
   - 曾任臺北市立明倫高中 程式設計社 社團教學股長
   - 曾任國立臺北科技大學 電資學士班 系學會活動股長
   - 曾任國立臺北科技大學 程式設計研究社兼 GDSC 社團公關長
   - 曾任 QSAN 廣盛科技股份有限公司 系統開發 實習生
+  - 曾任意向科技股份有限公司 軟體開發實習生
+  
 - #### 個人證照
   - TOEIC 多益測驗 730
   - iPAS 初級資訊安全工程師
@@ -23,7 +26,9 @@
 ### 個人專案資料
 
 - #### 最新專案
-    - [LLM-Router: Use a simple and centralized api to access LLM api to use token, support google and github models](https://github.com/Disesfgewu/LLM-Router.git) **(NEW)**
+    - [agent client template](https://github.com/Disesfgewu/agent-client-template.git) **(NEW)**
+      - To provide a clear and simple agent client template which supports context windows, auto-compress, llm-router, files manager, skills input, sandbox coding etc.. 
+    - [LLM-Router: Use a simple and centralized api to access LLM api to use token, support google and github models](https://github.com/Disesfgewu/LLM-Router.git) 
       - The latest update:
           - 1. Support the safety method for OpenClaw to protect and control the usages of API in CHAT Functions (support google ai studio models, github models and ollama platform)
           - 2. Use the DDGS to do the web_search avoid the expensive API tokens use and in the safety way to do the search.
@@ -84,3 +89,7 @@
 - 114/04  參加 2025 年技職杯黑客松競賽北區分賽 參與
 - 114/07 ~ 115/02 執行大專生研究計畫
 - 114/09 ~ 114/11 參加 AI CUP 2025 秋季賽 － 電腦斷層心臟肌肉影像分割競賽 II － 主動脈瓣物件偵測 學生組排名獎優等獎(rank 9/536)
+- 115/02  獲得 TSMC 台積電產業學程 智慧製造學程證書
+- 115/02  獲得北科大-北醫大 生醫輔助科技微學程、北科大 智慧感測科技微學程
+- 115/02 ~ 06 擔任意向科技股份有限公司 軟體開發實習生
+- 115/07  加入國立成功大學 USCC 實驗室擔任研究生
